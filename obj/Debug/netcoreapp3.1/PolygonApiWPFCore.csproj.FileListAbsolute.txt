@@ -1,0 +1,9 @@
+C:\SWDev\PolygonApiWPFCore\obj\Debug\netcoreapp3.1\PolygonApiWPFCore.csprojAssemblyReference.cache
+C:\SWDev\PolygonApiWPFCore\obj\Debug\netcoreapp3.1\PolygonApiWPFCore.AssemblyInfoInputs.cache
+C:\SWDev\PolygonApiWPFCore\obj\Debug\netcoreapp3.1\PolygonApiWPFCore.AssemblyInfo.cs
+C:\SWDev\PolygonApiWPFCore\obj\Debug\netcoreapp3.1\PolygonApiWPFCore.csproj.CoreCompileInputs.cache
+C:\SWDev\PolygonApiWPFCore\bin\Debug\netcoreapp3.1\PolygonApiWPFCore.deps.json
+C:\SWDev\PolygonApiWPFCore\bin\Debug\netcoreapp3.1\PolygonApiWPFCore.dll
+C:\SWDev\PolygonApiWPFCore\bin\Debug\netcoreapp3.1\PolygonApiWPFCore.pdb
+C:\SWDev\PolygonApiWPFCore\obj\Debug\netcoreapp3.1\PolygonApiWPFCore.dll
+C:\SWDev\PolygonApiWPFCore\obj\Debug\netcoreapp3.1\PolygonApiWPFCore.pdb

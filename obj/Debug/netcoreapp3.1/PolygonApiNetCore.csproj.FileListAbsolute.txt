@@ -1,0 +1,8 @@
+C:\SWDev\PolygonApiNetCore\bin\Debug\netcoreapp3.1\PolygonApiNetCore.deps.json
+C:\SWDev\PolygonApiNetCore\bin\Debug\netcoreapp3.1\PolygonApiNetCore.dll
+C:\SWDev\PolygonApiNetCore\bin\Debug\netcoreapp3.1\PolygonApiNetCore.pdb
+C:\SWDev\PolygonApiNetCore\obj\Debug\netcoreapp3.1\PolygonApiNetCore.AssemblyInfoInputs.cache
+C:\SWDev\PolygonApiNetCore\obj\Debug\netcoreapp3.1\PolygonApiNetCore.AssemblyInfo.cs
+C:\SWDev\PolygonApiNetCore\obj\Debug\netcoreapp3.1\PolygonApiNetCore.csproj.CoreCompileInputs.cache
+C:\SWDev\PolygonApiNetCore\obj\Debug\netcoreapp3.1\PolygonApiNetCore.dll
+C:\SWDev\PolygonApiNetCore\obj\Debug\netcoreapp3.1\PolygonApiNetCore.pdb
